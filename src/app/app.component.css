@@ -1,0 +1,35 @@
+.container{
+   text-align: center;
+   padding: 2rem;
+   background:wheat;
+   background-size: cover;
+   min-height:100vh;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+
+.proverb-box{
+    background:rgba(0, 0, 0, 0.7);
+    padding: 2rem;
+    border-radius: 15px;
+    display:inline-block;
+}
+
+.Pashto{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.English{
+    font-size: italic;
+    margin-top: 1rem;
+}
+
+button{
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: goldenrod;
+    color:white;
+    border:none;
+    border-radius: 5px;
+}
