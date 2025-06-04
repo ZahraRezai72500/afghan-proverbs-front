@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class ProverbsService {
-private baseURL = 'http://localhost:3000/api'
+private baseURL = 'https://afghan-proverbs-backend-b3ln.onrender.com/api'
 
   constructor(private http: HttpClient) {
 
